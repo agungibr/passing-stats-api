@@ -13,8 +13,14 @@ bun install
 To run:
 
 ```bash
-bun run index.ts
+bun run server.ts
 ```
+
+To access JSON files:
+```bash
+http://localhost:8080/data.json
+```
+
 ## Project Setup
 
 This project was created using `bun init` in bun v1.1.34. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
