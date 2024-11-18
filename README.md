@@ -1,6 +1,6 @@
 # Passing Stats API
 
-This project is a web scraper built with [Bun](https://bun.sh) and TypeScript
+This project is a coverting csv to json built with [Bun](https://bun.sh) and TypeScript
 
 ## Usage
 
